@@ -1,7 +1,7 @@
 ### Nice to meet you :)
 I'm 13 years-old Japanese Programmer<br>
 I'm owner of https://haxlabs.org/<br>
-I'm working on .NET Development, Web Development(php)
+I'm working on .NET Development, Web Development<br>
 I can speak English a little bit, but It's not fluently
 
 Discord: zulux07437.#8144<br>
